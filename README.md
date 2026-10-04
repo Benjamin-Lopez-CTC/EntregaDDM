@@ -30,3 +30,7 @@ npx expo start --clear
 Se hizo uso de `react-linear-gradient` junto con el elemento `LinearGradient` para darle al fondo una transición de color en gradiente. 
 
 Se utiliza SafeAreaProvider junto a SafeAreaView para asegurar que el contenido nunca se muestre por encima de la barra de estado superior ni la barra de navegación inferior
+
+### Proyecto creado por Benjamín López
+
+Ninguna parte de este proyecto fue generada con IA generativa
